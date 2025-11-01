@@ -1,0 +1,73 @@
+Gender,Study_Hours,Part_Time_Job,Math,Physics,Chemistry,Grade,Comment,CourseCode,ListofCourses,RatingOfCourses
+Male,5,No,82,51,36,C,Below Average Achivement,01_CSE,B.E/B.Tech in Computer Science & Engineering ,5.0
+Female,4,Yes,42,46,40,D,Poor Pursuance,02_CSAI,B.E/B.Tech in Computer Science & Engineering (AI),4.5
+Male,10,Yes,36,55,48,D,Poor Pursuance,03_CSDS,B.E/B.Tech in Computer Science & Engineering ( Data Science),5.0
+Male,8,No,71,67,34,C,Below Average Achivement,04_CSR,B.E/B.Tech in Computer Science & Engineering (Robotics),3.0
+Male,9,Yes,85,92,36,B+,Good Pursuance,05_CSECS,B.E/B.Tech in Computer Science & Engineering (Cyber Security),4.5
+Female,2,Yes,20,58,97,C,Below Average Achivement,06_CSIOT,B.E/B.Tech in Computer Science & Engineering (IOT ),5.0
+Male,5,Yes,62,30,44,D,Poor Pursuance,07_CSBS,B.E/B.Tech in Computer Science and Business System (CSBS),3.0
+Male,4,No,92,11,32,D,Poor Pursuance,08_ESE,B.E/B.Tech in Electronic Engineering,5.0
+Female,7,Yes,73,71,96,B+,Good Pursuance,09_ECE,B.E/B.Tech in Electronics and Communication Engineering ,5.0
+Male,9,Yes,12,60,19,F,Failed,10_EE,B.E/B.Tech in Electrical Engineering,5.0
+Female,10,No,79,50,70,B,Average Performance,11_ME,B.E/B.Tech in Mechanical Engineering,5.0
+Female,7,Yes,78,46,19,D,Poor Pursuance,12_AE,B.E/B.Tech in Aerospace Engineering,2.5
+Female,4,No,50,39,15,D,Poor Pursuance,13_CE,B.E/B.Tech in Civil Engineering,3.0
+Female,9,No,14,21,86,D,Poor Pursuance,14_AUE,B.E/B.Tech in Automobile Engineering,2.5
+Female,2,Yes,90,60,53,B,Average Performance,15_CHE,B.E/B.Tech in Chemical Engineering,4.5
+Female,8,No,53,52,65,C,Below Average Achivement,16_BIOE,B.E/B.Tech in Biomedical Engineer,4.0
+Female,5,Yes,94,66,59,B+,Good Pursuance,17_PE,B.E/B.Tech in Petroleum Engineering,2.5
+Male,5,No,66,23,12,D,Poor Pursuance,18_MIE,B.E/B.Tech in Mining Engineering,2.5
+Male,1,No,75,10,79,C,Below Average Achivement,19_MECH,B.E/B.Tech in Mechatronics,3.0
+Female,7,No,99,49,94,B+,Good Pursuance,20_BT,B.E/B.Tech in Biotechnology,2.5
+Female,2,Yes,53,92,16,C,Below Average Achivement,21_ENE,B.E/B.Tech in Environmental Engineering,3.5
+Female,2,Yes,81,57,60,B,Average Performance,22_EEE,B.E/B.Tech in Electrical and Electronics Engineering,5.0
+Female,8,No,53,85,24,C,Below Average Achivement,23_AEE,B.E/B.Tech in Aeronautical Engineering,5.0
+Male,6,Yes,97,70,78,A,Very Good Achivement,24_PROD,B.E/B.Tech in Production Engineering,3.0
+Female,7,No,52,65,22,D,Poor Pursuance,25_FPT,B.E/B.Tech in Food Processing and Technology,5.0
+Female,1,Yes,84,88,85,A,Very Good Achivement,26_AGRE,B.E/B.Tech in Agricultural Engineering,5.0
+Male,10,Yes,39,82,64,B,Average Performance,27_DTE,B.E/B.Tech in Dairy Technology and Engineering,3.5
+Male,2,Yes,59,49,40,D,Poor Pursuance,28_METE,B.E/B.Tech in Metallurgy Engineering,2.0
+Female,5,Yes,13,40,58,D,Poor Pursuance,29_TEXE,B.E/B.Tech in Textile Engineering,2.0
+Female,2,Yes,39,16,87,D,Poor Pursuance,30_MARE,B.E/B.Tech in Marine Engineering,2.5
+Female,6,No,51,79,77,B,Average Performance,31_POLE,B.E/B.Tech in Polymer Engineering,2.0
+Male,2,Yes,92,69,65,B+,Good Pursuance,32_BC,BCA,4.5
+Male,7,No,85,16,81,C,Below Average Achivement,34_BSM,B.Sc in Math,4.5
+Male,5,No,77,61,77,B+,Good Pursuance,35_BSC,B.Sc in Chemistry,4.5
+Male,7,No,44,11,40,F,Failed,36_BSP,B.Sc in Physics,5.0
+Female,8,Yes,31,16,37,F,Failed,37_BES,B.Sc in Environmental Science,5.0
+Male,10,Yes,57,97,60,B+,Good Pursuance,38_CSE,B.E/B.Tech in Computer Science & Engineering ,5.0
+Female,7,No,73,61,50,B,Average Performance,39_CSAI,B.E/B.Tech in Computer Science & Engineering (AI),4.5
+Female,2,No,38,47,92,C,Below Average Achivement,40_CSDS,B.E/B.Tech in Computer Science & Engineering ( Data Science),5.0
+Male,8,No,50,86,76,B,Average Performance,41_CSR,B.E/B.Tech in Computer Science & Engineering (Robotics),3.0
+Male,6,No,32,46,39,D,Poor Pursuance,42_CSECS,B.E/B.Tech in Computer Science & Engineering (Cyber Security),4.5
+Female,6,Yes,30,26,92,D,Poor Pursuance,43_CSIOT,B.E/B.Tech in Computer Science & Engineering (IOT ),5.0
+Female,2,Yes,52,99,68,B+,Good Pursuance,44_CSBS,B.E/B.Tech in Computer Science and Business System (CSBS),3.0
+Female,1,Yes,76,44,30,D,Poor Pursuance,45_ESE,B.E/B.Tech in Electronic Engineering,5.0
+Male,9,Yes,10,10,45,F,Failed,46_ECE,B.E/B.Tech in Electronics and Communication Engineering ,5.0
+Male,1,No,71,84,74,B+,Good Pursuance,47_EE,B.E/B.Tech in Electrical Engineering,5.0
+Male,7,No,18,55,55,D,Poor Pursuance,48_ME,B.E/B.Tech in Mechanical Engineering,5.0
+Female,7,Yes,45,68,69,C,Below Average Achivement,49_AE,B.E/B.Tech in Aerospace Engineering,2.5
+Male,1,No,35,59,58,D,Poor Pursuance,50_CE,B.E/B.Tech in Civil Engineering,3.0
+Female,10,Yes,91,20,99,B,Average Performance,51_AUE,B.E/B.Tech in Automobile Engineering,2.5
+Male,9,No,36,21,57,D,Poor Pursuance,52_CHE,B.E/B.Tech in Chemical Engineering,4.5
+Female,4,Yes,21,44,29,F,Failed,53_BIOE,B.E/B.Tech in Biomedical Engineer,4.0
+Male,3,Yes,48,88,56,B,Average Performance,54_PE,B.E/B.Tech in Petroleum Engineering,2.5
+Female,9,No,43,77,81,B,Average Performance,55_MIE,B.E/B.Tech in Mining Engineering,2.5
+Male,1,No,67,84,47,B,Average Performance,56_MECH,B.E/B.Tech in Mechatronics,3.0
+Male,3,Yes,43,23,23,F,Failed,57_BT,B.E/B.Tech in Biotechnology,2.5
+Male,7,No,97,43,68,B,Average Performance,58_ENE,B.E/B.Tech in Environmental Engineering,3.5
+Female,6,No,62,59,54,C,Below Average Achivement,59_EEE,B.E/B.Tech in Electrical and Electronics Engineering,5.0
+Female,10,Yes,29,37,23,F,Failed,60_AEE,B.E/B.Tech in Aeronautical Engineering,5.0
+Female,7,Yes,80,43,46,C,Below Average Achivement,61_PROD,B.E/B.Tech in Production Engineering,3.0
+Female,5,No,39,13,35,F,Failed,62_FPT,B.E/B.Tech in Food Processing and Technology,5.0
+Female,5,Yes,82,56,52,B,Average Performance,63_AGRE,B.E/B.Tech in Agricultural Engineering,5.0
+Female,8,No,92,35,12,D,Poor Pursuance,64_DTE,B.E/B.Tech in Dairy Technology and Engineering,3.5
+Female,4,No,76,61,58,B,Average Performance,65_METE,B.E/B.Tech in Metallurgy Engineering,2.0
+Female,9,Yes,77,80,36,B,Average Performance,66_TEXE,B.E/B.Tech in Textile Engineering,2.0
+Male,10,No,35,13,79,D,Poor Pursuance,67_MARE,B.E/B.Tech in Marine Engineering,2.5
+Female,1,Yes,63,89,17,C,Below Average Achivement,68_POLE,B.E/B.Tech in Polymer Engineering,2.0
+Male,4,No,34,60,61,C,Below Average Achivement,69_BC,BCA,4.5
+Male,5,No,24,50,15,F,Failed,70_BSM,B.Sc in Math,4.5
+Male,3,Yes,57,54,45,C,Below Average Achivement,71_BSC,B.Sc in Chemistry,4.5
+Female,8,No,94,43,58,B,Average Performance,72_BSP,B.Sc in Physics,5.0
+Female,7,No,16,80,99,B,Average Performance,73_BES,B.Sc in Environmental Science,5.0
